@@ -1,0 +1,7 @@
+# Saludo Simple
+name = input('Introduce tu nombre')
+def saluda(nombre):
+  print('Hola, '+ nombre )
+  
+saluda(name)
+  
